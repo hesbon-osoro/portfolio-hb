@@ -10,7 +10,11 @@ const Productlist = () => {
                 <h1 className='pl-title'>Create & Inspire.<br />It's Wazimu</h1>
                 <p className='pl-desc'>
                     Wazimu is a creative portfolio that your work has been waiting for.<br />
-                    Beautiful websites, stunning portfolio styles & a whole lot more awaits.
+                    Beautiful websites, stunning portfolio styles & a whole lot more awaits.<br />
+                    <br />
+                    Browse the taste below <br /><br />
+                    <i id='ad'>&#128071;</i>
+
                 </p>
             </div>
             <div className='pl-list'>
