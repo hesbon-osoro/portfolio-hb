@@ -1,4 +1,4 @@
-.A {
+.a {
     height: 100vh;
     display: flex;
     align-items: center;
@@ -13,6 +13,12 @@
 }
 .a-right{
     flex: 1;
+}
+.a-card.bg{
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    background: #333;
 }
 .a-card {
     width: 60%;

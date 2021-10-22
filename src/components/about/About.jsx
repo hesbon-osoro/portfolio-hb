@@ -1,13 +1,13 @@
 import Award from '../../img/award.png'
 import './about.css'
-
+import portfolio from '../../img/hb-fun.jpg'
 const About = () => {
     return (
         <div className='a'>
             <div className='a-left'>
                 <div className='a-card bg'></div>
                 <div className='a-card'>
-                    <img src="../../img/portifolio.jpeg" alt="" className='a-img'/>
+                    <img src={portfolio} alt="" className='a-img'/>
                 </div>
             </div>
             <div className='a-right'>
@@ -21,8 +21,8 @@ const About = () => {
                 </p>
                 <div className='a-award'>
                     <img src={Award} alt="" className='a-award-img'/>
-                    <div className='a-award-title'>
-                        <h4>Google Devfest India 2021</h4>
+                    <div className='a-award-texts'>
+                        <h4 className='a-award-title'>Google Devfest India 2021</h4>
                         <p className='a-award-desc'>This is the award I received after signing up to attend Google Developer Devfest India, &copy;2021</p>
                 </div>
                 </div>                

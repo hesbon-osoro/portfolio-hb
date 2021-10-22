@@ -4,7 +4,7 @@ export const ThemeContext = createContext()
 
 const INITIAL_STATE = { darkMode: false };
 
-const ACTIONS = {
+export const ACTIONS = {
     TOGGLE: "TOGGLE"
 }
 const themeReducer = (state, action ) => {
