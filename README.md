@@ -2,6 +2,8 @@
 
 # PORTFOLIO
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/06542df0-cc30-4f13-a38d-eaa3eb457f2f/deploy-status)](https://app.netlify.com/sites/wazimu-portfolio/deploys)
+
 #### Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
