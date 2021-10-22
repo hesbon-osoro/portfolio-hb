@@ -1,6 +1,9 @@
 ## Hello, <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 # PORTFOLIO
+## Sample
+
+[![portfolio-hb.png](https://i.postimg.cc/FHZNZVGR/portfolio-hb.png)](https://postimg.cc/cvrp1Ypy)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/06542df0-cc30-4f13-a38d-eaa3eb457f2f/deploy-status)](https://app.netlify.com/sites/wazimu-portfolio/deploys)
 
