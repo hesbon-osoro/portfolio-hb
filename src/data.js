@@ -20,17 +20,17 @@ export const projects = [
     },
     {
         id: 4,
-        img: "",
-        link: "",
+        img: hampi,
+        link: "https://hampi-tourism-site-hb.netlify.app/",
     },
     {
         id: 5,
-        img: "",
-        link: "",
+        img: agency,
+        link: "https://agency-site-hb.netlify.app/",
     },
     {
         id: 6,
-        img: "",
-        link: "",
+        img: dating,
+        link: "http://dating-site-frontend.netlify.app/",
     },
 ];
