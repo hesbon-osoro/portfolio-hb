@@ -3,7 +3,7 @@
 # PORTFOLIO
 ## Sample
 
-[![portfolio-hb.png](https://i.postimg.cc/FHZNZVGR/portfolio-hb.png)](https://postimg.cc/cvrp1Ypy)
+[![portfolio-hb.png](https://i.postimg.cc/1zDxGM1z/portfolio-hb.png)](https://portfolio-hb.netlify.app/)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/06542df0-cc30-4f13-a38d-eaa3eb457f2f/deploy-status)](https://app.netlify.com/sites/wazimu-portfolio/deploys)
 
